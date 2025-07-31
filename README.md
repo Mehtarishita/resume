@@ -30,5 +30,8 @@ This repository contains the most updated version of my resume as a Computer Sci
 ## 🔗 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rishita-mehta-1154352b4)  
-- [GitHub](https://github.com/Mehtarishita)  
+- [GitHub](https://github.com/Mehtarishita)
+[LeetCode](https://leetcode.com/u/rishitaa_mehta/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/rishitamm033/)
+- [📄 Download Resume (PDF)](https://github.com/Mehtarishita/resume/raw/main/Rishita_Mehta_CS_Resume_2025.pdf)  
 
