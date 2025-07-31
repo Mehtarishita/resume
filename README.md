@@ -9,6 +9,8 @@ This repository contains the most updated version of my resume as a Computer Sci
 ## 📄 Resume Overview
 
 - **File:** [`Rishita_Mehta_CS_Resume_2025.pdf`](./Rishita_Mehta_CS_Resume_2025.pdf)
+[📄 Download My Resume (PDF)](https://github.com/Mehtarishita/resume/raw/main/Rishita_Mehta_CS_Resume_2025.pdf)
+
 - **Last Updated:** 2025
 - **Format:** PDF
 
