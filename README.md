@@ -16,7 +16,7 @@ This repository contains the most updated version of my resume as a Computer Sci
 
 ## 💡 Highlights
 
-- 🏆 **Smart India Hackathon Finalist** | **DoraHacks Web3Conf Participant**
+- 🏆 **Smart India Hackathon Finalist** | **CodeVerse Hackathon Finalist**
 - 🎓 B.Tech CSE @ **VIT Bhopal** | Core member in **Blockchain Club** & **Startup Club**
 - ✨ Passionate about **fashion tech**, **graphic design**, and **startup culture**
 - 💼 Experienced in **social media marketing**, **event management**, and **UI/UX design**
