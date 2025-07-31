@@ -27,6 +27,6 @@ This repository contains the most updated version of my resume as a Computer Sci
 
 ## 🔗 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [GitHub](https://github.com/your-username)  
+- [LinkedIn](https://www.linkedin.com/in/rishita-mehta-1154352b4)  
+- [GitHub](https://github.com/Mehtarishita)  
 
